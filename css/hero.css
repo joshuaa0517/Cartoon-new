@@ -67,3 +67,7 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 }
+
+h2.big{
+	max-width: 800px;
+}
